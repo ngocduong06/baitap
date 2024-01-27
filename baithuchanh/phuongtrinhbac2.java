@@ -34,6 +34,5 @@ public class phuongtrinhbac2 {
              System.out.println("nghiem x2 cua phuong trinh co ket qua la:"+x2);
                          }               
            }
-           Sc close;
     }
 }
