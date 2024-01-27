@@ -12,6 +12,7 @@ public class bai1 {
         System.out.println("tich cua 2 so la:" +(a*b));
         System.out.println(" thuong cua 2 so a va b la:" +(a/b) + "\t"+(b/a));
         System.out.println("chia lay phan du cua 2 so a va b:" +(a%b) + "\t"+(b%a));
+        sc.close();
     }
     
 }

@@ -11,6 +11,6 @@ public class bai2 {
         else{
             System.out.println("a la so le");
         }
-          
+          sc.close();
     }
 }
