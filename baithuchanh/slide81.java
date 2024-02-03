@@ -14,9 +14,10 @@ public class slide81 {
                 a[i][j]=sc.nextInt();
             }
         }
+        System.out.println("ma tran vua nhap la:");
         for(i=0;i<m;i++){
             for(j=0;j<n;j++){
-                System.out.print("ma tran vua nhap la:"+a[i][j] +"\t");
+                System.out.print(+a[i][j] +"\t");
             }
             System.out.println("\n");
         }
@@ -28,5 +29,6 @@ public class slide81 {
             }
         }
         System.out.println("gia tri lon nhat trong ma tran la:"+max);
+          sc.close();
         }
     }
