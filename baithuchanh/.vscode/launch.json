@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "phuongtrinhbac1",
+            "request": "launch",
+            "mainClass": "phuongtrinhbac1",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "phuongtrinhbac2",
+            "request": "launch",
+            "mainClass": "phuongtrinhbac2",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "silde30",
+            "request": "launch",
+            "mainClass": "silde30",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "slide35",
+            "request": "launch",
+            "mainClass": "slide35",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "slide40",
+            "request": "launch",
+            "mainClass": "slide40",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "slide47",
+            "request": "launch",
+            "mainClass": "slide47",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "slide55",
+            "request": "launch",
+            "mainClass": "slide55",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "slide74",
+            "request": "launch",
+            "mainClass": "slide74",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
+            "name": "slide81",
+            "request": "launch",
+            "mainClass": "slide81",
+            "projectName": "baithuchanh_5e688b82"
+        }
+    ]
+}
