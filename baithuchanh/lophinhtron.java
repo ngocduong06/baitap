@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class lophinhtron {
      final float Pi =3.14f;
@@ -14,6 +13,6 @@ public class lophinhtron {
     }
     public void hienthi(){
         System.out.print("chu vi hinh tron voi ban kinh"+r+"la:"+cv);
-        System.out.print("/tdien tich hinh tron voi ban kinh"+r+"la:"+dt);
+        System.out.print("\ndien tich hinh tron voi ban kinh"+r+"la:"+dt);
     }
 }
