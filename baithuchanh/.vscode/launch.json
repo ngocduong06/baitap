@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hinhtron",
+            "request": "launch",
+            "mainClass": "hinhtron",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
