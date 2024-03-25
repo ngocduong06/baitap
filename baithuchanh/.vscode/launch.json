@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Hinhhoc.main",
+            "projectName": "baithuchanh_5e688b82"
+        },
+        {
+            "type": "java",
             "name": "slide16chuong3",
             "request": "launch",
             "mainClass": "slide16chuong3",
