@@ -1,7 +1,6 @@
 package tinhLuong;
 
 public class nhanvien {
-    String loaiNhanVien;
     protected  String fullName;
     protected  long luong;
     public nhanvien(){
@@ -12,9 +11,9 @@ public class nhanvien {
     this.fullName=fullName;
     }
     protected String loaiNhanVien(){
-        return "";
-    };
+        return" ";
+    }
     public void xuatThongTin(){
-        System.out.println("thong tin nhan vien: "+fullName+" chuc vu: "+loaiNhanVien+" tien luong: "+luong);
+        System.out.println("thong tin nhan vien: "+fullName+"\n"+loaiNhanVien()+"\ntien luong: "+luong);
     }
 }

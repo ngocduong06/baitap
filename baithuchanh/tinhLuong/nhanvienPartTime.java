@@ -6,7 +6,6 @@ public class nhanvienPartTime extends nhanvien {
         this.fullName=fullName;
         this.gioLamViec=gioLamViec;
     }
-    @Override
     public String loaiNhanVien(){
         return"day la nhan vien partTime";
     }

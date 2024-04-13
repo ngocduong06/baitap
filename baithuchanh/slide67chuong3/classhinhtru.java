@@ -1,4 +1,4 @@
-package slide67;
+package slide67chuong3;
 
 public class classhinhtru extends classhinhtron {
     @Override

@@ -1,4 +1,4 @@
-package slide67;
+package slide67chuong3;
 
 public class main67 {
   public static void main(String[]args){

@@ -12,6 +12,9 @@ public class NhanvienFullTime extends nhanvien {
     }
     public void setLoaiChucVu(int loaiChucvu){
         this.loaiChucvu=loaiChucvu;
+        if(loaiChucvu==1){
+    System.out.println("\n chuc vu Sep");
+        } else System.out.println("\n chuc vu Nhan vien");
     }
     @Override
     public String loaiNhanVien(){
